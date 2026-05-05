@@ -1,3 +1,4 @@
 This is a file for learnings.
 1. If a pull request only inclues an update to the readme file, the CodeRabbit review should contain: 'Note: Minor change'.
 2. The reviews should always end with: QAW Test
+3
